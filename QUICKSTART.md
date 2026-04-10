@@ -1,6 +1,30 @@
 # Quickstart
 
-1. Clone this repository.
-2. Install dependencies for this project (if applicable).
-3. Run the app or scripts described in README.md.
-4. Add tests under tests/ when introducing behavior changes.
+1. Welcome, Vivan
+Score: 0 | Lives: 3
+---------------------------------
+
+Available snacks: ['biscuits', 'chips', 'chocolate', 'juice']
+
+Direction Example: You walked north.
+Vivan moved up. Current position: (0, 1)
+Vivan moved right. Current position: (1, 1)
+Vivan moved right. Current position: (2, 1)
+
+🍎 Food spawned at: (4, 5)
+
+Eating snacks...
+You ate: biscuits
+You ate: chips
+You ate: chocolate
+You ate: juice
+No snacks left!
+
+Counting from 1 to 5:
+1
+2
+3
+4
+5
+
+Program finished successfully!
